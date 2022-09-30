@@ -1,6 +1,6 @@
 <resources>
-    <string name="app_name">HelloMultiTelas</string>
+    <string name="app_name">Hello2Telas</string>
     <string name="enviar">Enviar</string>
-    <string name="informe_o_nome">Informe seu Nome</string>
+    <string name="informe_o_nome">Informe o Nome</string>
     <string name="voltar">Voltar</string>
 </resources>
